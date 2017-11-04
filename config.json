@@ -1,5 +1,5 @@
 {
-  "contentUrl": "/InfoApp-api/master/content.json",
+  "content_url": "/InfoApp-api/master/content.json",
   "ads_banner": true,
   "ads_click_interval": 5,
   "ads_video": 50,
