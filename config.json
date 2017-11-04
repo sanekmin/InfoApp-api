@@ -1,0 +1,10 @@
+{
+  "contentUrl": "https://github.com/fedka27",
+  "ads_banner": true,
+  "ads_click_interval": 5,
+  "ads_video": 50,
+  "ads_interstitial": 50,
+  "ads_splash": true,
+  "ads": true,
+  "isOffline": true
+}
