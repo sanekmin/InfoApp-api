@@ -3,5 +3,10 @@
     "type": "text",
     "text": "Test text",
     "link": "https://github.com/fedka27"
+  },
+  {
+    "type": "link",
+    "text": "Test link",
+    "link": "https://github.com/fedka27"
   }
 ]
