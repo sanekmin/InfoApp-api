@@ -1,12 +1,15 @@
 [
   {
-    "type": "text",
-    "text": "Test text",
-    "link": "https://github.com/fedka27"
+  "spoiler":{
+    "button_text":"Spoiler 1",
+    "spoiler_text":"Text spoiler",
+    "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
+  }
   },
   {
-    "type": "link",
-    "text": "Test link",
-    "link": "https://github.com/fedka27"
+  "link":{
+    "text":"Link 1",
+    "link":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
+  }
   }
 ]
