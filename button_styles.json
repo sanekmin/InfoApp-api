@@ -11,8 +11,8 @@
     {
       "id": 1,
       "color": "#00ffff",
-      "border_color":"#FF40FF",
-      "text_color":"#FFFF81",
+      "border_color":"#FF405F",
+      "text_color":"#000000",
       "corner_radius":16.5
     }
   ]
