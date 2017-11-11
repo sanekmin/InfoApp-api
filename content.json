@@ -7,12 +7,14 @@
     "button_text":"Spoiler 1",
     "spoiler_text":"Text spoiler",
     "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
-   "styleId":1
+    "icon":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
+    "styleId":1
   }
   },
   {
   "link":{
     "text":"Link Market",
+    "icon":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
     "link":"https://redirect.appmetrica.yandex.com/serve/745891306030502257"
   }
   },
@@ -27,6 +29,7 @@
   "link":{
     "text":"Link Market",
     "link":"https://redirect.appmetrica.yandex.com/serve/745891306030502257",
+    "icon":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
     "styleId":1
   }
   },
@@ -40,13 +43,15 @@
   {
   "link":{
     "text":"Link 1",
-    "link":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
+    "link":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
+    "styleId":1
   }
   },
   {
   "spoiler":{
     "button_text":"Spoiler 1",
     "spoiler_text":"Text spoiler",
+    "icon":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
     "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
   }
   },
