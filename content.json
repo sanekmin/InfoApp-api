@@ -6,7 +6,8 @@
   "spoiler":{
     "button_text":"Spoiler 1",
     "spoiler_text":"Text spoiler",
-    "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
+    "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
+   "styleId":1
   }
   },
   {
@@ -25,7 +26,8 @@
   {
   "link":{
     "text":"Link Market",
-    "link":"https://redirect.appmetrica.yandex.com/serve/745891306030502257"
+    "link":"https://redirect.appmetrica.yandex.com/serve/745891306030502257",
+    "styleId":1
   }
   },
   {
