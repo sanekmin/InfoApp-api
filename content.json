@@ -1,10 +1,13 @@
 {
+  
   "image_color":"#ffffff",
-"image_bg":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
+  "image_bg":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
+  
   "list":[
-  {
-  "spoiler":{
-    "button_text":"Spoiler 1",
+  
+    {
+    "spoiler":{
+    "button_text":"Spoiler 1, Large text",
     "spoiler_text":"Text spoiler",
     "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
     "icon":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
@@ -35,14 +38,14 @@
   },
   {
   "spoiler":{
-    "button_text":"Spoiler 1",
+    "button_text":"Spoiler 2, Large text",
     "spoiler_text":"Text spoiler",
     "image":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
   }
   },
   {
   "link":{
-    "text":"Link 1",
+    "text":"Link 1, Another large label",
     "link":"https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw",
     "styleId":1
   }
