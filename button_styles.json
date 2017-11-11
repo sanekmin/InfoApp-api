@@ -1,0 +1,10 @@
+{
+  "styles": [
+    {
+      "id": 1,
+      "color": "#00ff00",
+      "border_color":"#434434",
+      "text_color":"#000000"
+    }
+  ]
+}
