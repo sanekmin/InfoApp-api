@@ -1,10 +1,19 @@
 {
   "styles": [
     {
-      "id": 1,
-      "color": "#00ff00",
+      "id": 0,
+      "color": "#00000000",
       "border_color":"#FF4081",
-      "text_color":"#FF4081"
+      "text_color":"#FF4081",
+      "corner_radius":8
+    },
+    
+    {
+      "id": 1,
+      "color": "#00ffff",
+      "border_color":"#FF40FF",
+      "text_color":"#FFFF81",
+      "corner_radius":16.5
     }
   ]
 }
