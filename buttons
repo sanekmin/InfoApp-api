@@ -1,0 +1,19 @@
+{
+  "buttons": [
+    {
+      "id": 0,
+      "spoiler": {
+        "button_text": "Spoiler 1, Large text",
+        "spoiler_text": "Text spoiler",
+        "image": "https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
+      }
+    },
+    {
+      "id": 1,
+      "link": {
+        "text": "Link Market",
+        "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
+      }
+    }
+  ]
+}
