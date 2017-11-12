@@ -1,5 +1,7 @@
 {
   "content_url": "fedka27/InfoApp-api/master/content.json",
+  "content_buttons_url":"fedka27/InfoApp-api/master/content_buttons.json",
+  "config_button_url":"fedka27/InfoApp-api/master/config_button.json",
   "ads_banner": true,
   "ads_click_interval": 5,
   "ads_video": 50,
