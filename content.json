@@ -6,6 +6,18 @@
     {
       "buttonId": 1,
       "styleId": 1
+    },
+    {
+      "buttonId": 2,
+      "styleId": 2
+    },
+    {
+      "buttonId": 1,
+      "styleId": 2
+    },
+    {
+      "buttonId": 2,
+      "styleId": 1
     }
   ]
 }
