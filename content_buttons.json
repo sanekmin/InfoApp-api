@@ -14,6 +14,21 @@
         "text": "Link Market",
         "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
       }
+    },
+    {
+      "id": 2,
+      "link": {
+        "text": "Link Market 2",
+        "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
+      }
+    },
+    {
+      "id": 3,
+      "spoiler": {
+        "button_text": "Spoiler 2, Standart",
+        "spoiler_text": "Lorem ipsum...",
+        "image": "http://pluspng.com/img-png/link-zelda-png-zelda-link-png-clipart-640.png"
+      }
     }
   ]
 }
