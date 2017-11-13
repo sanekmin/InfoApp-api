@@ -3,17 +3,17 @@
     {
       "id": 0,
       "color": "#00000000",
-      "border_color":"#FF4081",
-      "text_color":"#FF4081",
+      "border_color":"#FF0081",
+      "text_color":"#FF0081",
       "corner_radius":8
     },
     
     {
       "id": 1,
-      "color": "#00ffff",
-      "border_color":"#FF405F",
-      "text_color":"#000000",
-      "corner_radius":16.5
+      "color": "#ff0000",
+      "border_color":"#ff0000",
+      "text_color":"#ff0000",
+      "corner_radius":26.5
     }
   ]
 }
