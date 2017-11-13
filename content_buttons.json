@@ -1,34 +1,16 @@
 {
   "buttons": [
     {
-      "id": 0,
-      "spoiler": {
-        "button_text": "Spoiler 1, Large text",
-        "spoiler_text": "Text spoiler",
-        "image": "https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
-      }
-    },
-    {
       "id": 1,
-      "link": {
         "text": "Link Market",
+        "icon":"http://is4.mzstatic.com/image/thumb/Purple128/v4/68/b8/b7/68b8b72d-8e59-59a1-a89e-906ed719200b/source/1200x630bb.jpg",
         "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
-      }
     },
     {
       "id": 2,
-      "link": {
         "text": "Link Market 2",
+        "icon":"https://im0-tub-ua.yandex.net/i?id=f5641ef0115c7b689fcbbc4f0b38ea05&n=13",
         "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
-      }
-    },
-    {
-      "id": 3,
-      "spoiler": {
-        "button_text": "Spoiler 2, Standart",
-        "spoiler_text": "Lorem ipsum...",
-        "image": "http://pluspng.com/img-png/link-zelda-png-zelda-link-png-clipart-640.png"
-      }
     }
   ]
 }
