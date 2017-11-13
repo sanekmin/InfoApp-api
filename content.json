@@ -6,6 +6,7 @@
       "spoiler": {
         "button_text": "Spoiler 1, Large text",
         "spoiler_text": "Text spoiler",
+        "icon":"http://is4.mzstatic.com/image/thumb/Purple128/v4/68/b8/b7/68b8b72d-8e59-59a1-a89e-906ed719200b/source/1200x630bb.jpg",
         "image": "https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
       }
     },
@@ -17,6 +18,7 @@
       "spoiler": {
         "button_text": "Spoiler 2, Large text",
         "spoiler_text": "Text spoiler,Text spoiler,Text spoiler,Text spoiler",
+        "icon":"http://is4.mzstatic.com/image/thumb/Purple128/v4/68/b8/b7/68b8b72d-8e59-59a1-a89e-906ed719200b/source/1200x630bb.jpg",
         "image": "https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
       }
     },
