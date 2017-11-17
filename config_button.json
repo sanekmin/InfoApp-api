@@ -2,10 +2,10 @@
   "styles": [
     {
       "id": 0,
-      "color": "#00000000",
+      "color": "#ff0000",
       "border_color":"#FF0081",
-      "text_color":"#FF0081",
-      "corner_radius":8
+      "text_color":"#000000",
+      "corner_radius":5
     },
     
     {
