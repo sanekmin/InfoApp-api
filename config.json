@@ -1,7 +1,7 @@
 {
-  "content_url": "https://github.com/sanekmin/InfoApp-api/blob/master/content.json",
-  "content_buttons_url":"https://github.com/sanekmin/InfoApp-api/blob/master/content_buttons.json",
-  "config_button_url":"https://github.com/sanekmin/InfoApp-api/blob/master/config_button.json",
+  "content_url": "https://raw.githubusercontent.com/sanekmin/InfoApp-api/master/content.json",
+  "content_buttons_url":"https://raw.githubusercontent.com/sanekmin/InfoApp-api/master/content_buttons.json",
+  "config_button_url":"https://raw.githubusercontent.com/sanekmin/InfoApp-api/master/config_button.json",
   "ads_banner": true,
   "ads_click_interval": 5,
   "ads_video": 50,
