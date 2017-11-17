@@ -2,14 +2,14 @@
   "buttons": [
     {
       "id": 1,
-        "text": "Link Market",
-        "icon":"http://is4.mzstatic.com/image/thumb/Purple128/v4/68/b8/b7/68b8b72d-8e59-59a1-a89e-906ed719200b/source/1200x630bb.jpg",
+        "text": "Скачай Хром Браузер, худший браузер!",
+        "icon":"https://vignette.wikia.nocookie.net/divinity/images/0/0d/Google-chrome.png/revision/latest?cb=20140725231849&path-prefix=ru",
         "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
     },
     {
       "id": 2,
-        "text": "Link Market 2",
-        "icon":"https://im0-tub-ua.yandex.net/i?id=f5641ef0115c7b689fcbbc4f0b38ea05&n=13",
+        "text": "Второй хром в подарок",
+        "icon":"http://pngimg.com/uploads/chrome_logo/chrome_logo_PNG13.png",
         "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
     }
   ]
