@@ -7,6 +7,6 @@
   "ads_video": 50,
   "ads_interstitial": 50,
   "ads_splash": true,
-  "ads": true,
+  "ads": false,
   "isOffline": false
 }
