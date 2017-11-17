@@ -5,10 +5,10 @@
     {
       "styleId": 3,
       "spoiler": {
-        "button_text": "Spoiler 1, Large text",
-        "spoiler_text": "Text spoiler",
-        "icon":"http://is4.mzstatic.com/image/thumb/Purple128/v4/68/b8/b7/68b8b72d-8e59-59a1-a89e-906ed719200b/source/1200x630bb.jpg",
-        "image": "https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
+        "button_text": "Sponge Bob",
+        "spoiler_text": "«Губка Боб Квадратные Штаны», <br>также известный, как «Спанч Боб Сквэр Пэнтс» (англ. SpongeBob SquarePants) — американский мультипликационный сериал, который транслируется на телеканале «Nickelodeon». Состоялся в эфире 1 мая 1999 года и ставший одной из самых популярных анимационных программ телевидения[1]. Это первый по продолжительности показа анимированный сериал телеканала Nickelodeon, обогнавший «Ох уж эти детки!» (англ. «Rugrats») — на данный момент он насчитывает девять полных сезонов, 10 эпизодов десятого сезона и 1 эпизод одиннадцатого. В 2016 году мультсериал продлили на одиннадцатый сезон, а в мае 2017 года на двенадцатый.",
+        "icon":"http://mamametime.net/dir/wp-content/uploads/2016/04/dish-sponge.png",
+        "image": "https://i.ytimg.com/vi/LYJhbA8xHQY/maxresdefault.jpg"
       }
     },
     {
@@ -23,7 +23,7 @@
         "icon":"http://is4.mzstatic.com/image/thumb/Purple128/v4/68/b8/b7/68b8b72d-8e59-59a1-a89e-906ed719200b/source/1200x630bb.jpg",
         "image": "https://i.mycdn.me/image?id=838978447422&t=37&plc=WEB&tkn=*INSPiOXNMUkXB9voQnYKtsVMAKw"
       }
-      },
+    },
       {
       "buttonId": 2,
       "styleId": 1
