@@ -2,7 +2,7 @@
   "buttons": [
     {
       "id": 1,
-        "text": "<big><b>Скачай Хром Браузер, худший браузер</big>",
+        "text": "<big><b>Скачай Хром Браузер, худший браузер</b></big>",
         "icon":"https://vignette.wikia.nocookie.net/divinity/images/0/0d/Google-chrome.png/revision/latest?cb=20140725231849&path-prefix=ru",
         "link": "https://redirect.appmetrica.yandex.com/serve/745891306030502257"
     },
