@@ -14,6 +14,14 @@
       "border_color":"#ff0000",
       "text_color":"#ff0000",
       "corner_radius":26.5
+      },
+    
+    {
+      "id": 3,
+      "color": "#fff600",
+      "border_color":"#000000",
+      "text_color":"#000000",
+      "corner_radius":26.5
     }
   ]
 }
